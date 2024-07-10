@@ -1,0 +1,35 @@
+body{
+    margin: 0%;
+    color: beige;
+    background-color:beige
+}
+span{
+    color: rgb(8, 0, 255);
+
+}
+.wrapper{
+    position:absolute;
+    /* height: 100px;
+    width: 300px; */
+    text-align:center;
+    /* justify-content: center; */
+    /* left: 50%; */
+    top: 45%;
+    left: 50%;
+    background-color: rgb(166, 108, 219);
+padding: 20px;
+border-radius: 4px;
+box-shadow: rgb(55, 53, 192) 2px 4px 30px 10px;
+border: 2px solid black;    
+}
+input{
+    padding: 5px;
+
+}
+button{
+    color:blueviolet;
+    padding: 10px;
+    border: 2px solid black;
+    background-color: aquamarine;
+    cursor: pointer;
+}
